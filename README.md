@@ -1,3 +1,7 @@
+Autor: Jordy Viscaino
+Nrc: 36880
+Aplicaciones distribuidas
+--------------------------------------------------------
 ## consulta secuencial de sucursales
 
 Se simula una consulta cinco sucursales una por una. La idea es que cada consulta empeiza despues de la anterior y al final se suman los tiempos
